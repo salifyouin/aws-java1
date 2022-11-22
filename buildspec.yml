@@ -9,5 +9,5 @@ phases:
       - echo Build completed sucessfully
 artifacts:
   files:
-    - target/aws-java1-0.0.1-SNAPSHOT.ja
+    - target/aws-java1-0.0.1-SNAPSHOT.jar
   discard-paths: yes
